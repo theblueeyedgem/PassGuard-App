@@ -1,0 +1,6 @@
+{
+  "name": "PassGuard",
+  "description": "A highly secure Password Manager with built-in Two-Factor Authenticator (2FA) utilizing AES-256-GCM encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
